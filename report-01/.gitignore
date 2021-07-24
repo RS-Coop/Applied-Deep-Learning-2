@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+data_tf/*
+data_csv/*
+__pycache__
